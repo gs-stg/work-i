@@ -1,0 +1,1 @@
+start "send Email TASK LIST" "C:\xampp\php\php.exe" -f C:\webPage\public\sendTaskSummaryDay.php
